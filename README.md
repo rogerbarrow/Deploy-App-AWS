@@ -14,6 +14,10 @@
 * ![image](https://github.com/rogerbarrow/Deploy-App-AWS/assets/46138186/7aac1900-75d1-4040-8c1d-0c14cb90cef7)
 
   # Step 1 Setup the following environment variable - (.env) file
-8 ![image](https://github.com/rogerbarrow/Deploy-App-AWS/assets/46138186/dbfda810-c232-43c8-8538-adc16736036c)
+* ![image](https://github.com/rogerbarrow/Deploy-App-AWS/assets/46138186/dbfda810-c232-43c8-8538-adc16736036c)
 
   # Initialise and start the project
+
+* npm install
+* npm run start
+* ![image](https://github.com/rogerbarrow/Deploy-App-AWS/assets/46138186/2ece8efc-7b92-4e75-a829-f3c0426f8e50)
